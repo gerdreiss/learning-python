@@ -3,16 +3,4 @@ apple
 orange
 mandarin
 watermelon
-pomegranate
-pear
-apple
-orange
-mandarin
-watermelon
-pomegranate
-pear
-apple
-orange
-mandarin
-watermelon
-pomegranate
+pomegranatepear
